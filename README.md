@@ -60,3 +60,14 @@ This analysis helps Starbucks gain deeper insights into:
 - Product demand patterns
 
 - Retention and loyalty improvement strategies
+
+## 🚀 How to Use
+1. Download the `.pbix` file from this repository.
+2. Open it in **Power BI Desktop**.
+3. Interact with filters, slicers, and visuals to explore the dataset.
+
+## 📌 Author
+**Kaliraj R**  
+Data Analyst  
+📧 kalirajkarthi3@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/kaliraj-r-3s)
